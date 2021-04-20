@@ -1,9 +1,9 @@
 
-# repo-portfolio
+# readme-generator-nodeJS
 
 ## Description 
     
-This is a portfolio for all of my work on GihHub. It main audience is future employers. It uses the GitHub API to automatically fetch my repository data to dynamically add to the site.
+A README markdown generator that runs in Node.js. It uses the Inquirer npm package to grab data from the user in the command-line and output it to a new file.
     
 ## Table of Contents
     
@@ -19,7 +19,7 @@ This is a portfolio for all of my work on GihHub. It main audience is future emp
     
 ## Installation
     
-There is no installation process for this site.
+You need to install Node.js and Inquirer.
     
 ## Preview 
     
@@ -28,7 +28,7 @@ There is no installation process for this site.
 
 ## Usage
 
-You can click on any of the dynamically created cards for a direct link to the repo site. It also has a contact section where users can follow me on LinkedIn and see a list of my skills.
+You can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project. 
     
     
 ## License
